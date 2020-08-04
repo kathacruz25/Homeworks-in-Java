@@ -1,5 +1,4 @@
 # Homeworks-in-Java
-
 <h1>&nbsp;</h1>
 <h1><span style="color: #993366;">Hey, programmer friend!!&nbsp;👻</span></h1>
 <h4>Here you will find some of my tasks presented my Java Programming Class&nbsp;</h4>
